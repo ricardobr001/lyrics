@@ -1,0 +1,27 @@
+{
+  "name": "vagalume-lyrics",
+  "version": "1.0.0",
+  "description": "Recovering lyrics from a specific song",
+  "main": "Lyric.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardobr001/lyrics.git"
+  },
+  "keywords": [
+    "lyrics",
+    "vagalume",
+    "lyric",
+    "artist",
+    "song"
+  ],
+  "author": "Ricardo Mendes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardobr001/lyrics/issues"
+  },
+  "homepage": "https://github.com/ricardobr001/lyrics#readme"
+}
+  
