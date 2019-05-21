@@ -1,5 +1,8 @@
 # Lyric
 
+This is a simple lib that recover the lyric of a specific song in the [vagalume](https://www.vagalume.com.br/) website.  
+Enjoy it
+
 ### Install
 
 ```bash
@@ -21,3 +24,7 @@ lyric.getLyric(
     console.log(err)
 })
 ```
+
+### Requirement
+
+Node on version `8.x` or `higher`
